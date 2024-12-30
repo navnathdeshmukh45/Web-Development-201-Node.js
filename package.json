@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/navnathdeshmukh45/Web-Development-201-Node.js-#readme",
   "dependencies": {
+    "minimist": "^1.2.8",
     "nodemon": "^3.1.9"
   },
   "devDependencies": {
