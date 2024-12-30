@@ -1,0 +1,30 @@
+{
+  "name": "web-development-201-node.js-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navnathdeshmukh45/Web-Development-201-Node.js-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/navnathdeshmukh45/Web-Development-201-Node.js-/issues"
+  },
+  "homepage": "https://github.com/navnathdeshmukh45/Web-Development-201-Node.js-#readme",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "eslint": "^9.17.0",
+    "eslint-plugin-react": "^7.37.3",
+    "globals": "^15.14.0"
+  }
+}
